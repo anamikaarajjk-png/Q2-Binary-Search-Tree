@@ -1,0 +1,14 @@
+COMPARISON TABLE
+
+Search Key | BST Comparisons | Linear Comparisons
+25         | 4               | 8
+55         | 4               | 9
+90         | 3               | 9
+
+BST Search vs Linear Search
+
+Feature              | BST Search | Linear Search
+Average Time         | O(log n)   | O(n)
+Worst Case Time      | O(n)       | O(n)
+Extra Space          | O(n)       | O(1) extra
+Search Method        | Tree-based | Sequential

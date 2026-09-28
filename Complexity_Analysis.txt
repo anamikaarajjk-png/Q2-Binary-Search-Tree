@@ -1,0 +1,22 @@
+COMPLEXITY ANALYSIS
+
+BST Search:
+Best Case    : O(1)
+Average Case : O(log n)
+Worst Case   : O(n)
+
+Linear Search:
+Best Case    : O(1)
+Average Case : O(n)
+Worst Case   : O(n)
+
+BST Insertion:
+Average Case : O(log n)
+Worst Case   : O(n)
+
+Tree Traversal:
+Time Complexity : O(n)
+
+Space Complexity:
+BST              : O(n)
+Linear Search    : O(1) extra space
